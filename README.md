@@ -1,2 +1,2 @@
 # Agenda_Refrimix
-Agenta para HVAC-R e ELETRICA, estilo KANBAM.
+Agenda para HVAC-R e ELETRICA, estilo KANBAM.
